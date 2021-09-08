@@ -1,4 +1,5 @@
 # APP_baseAjax
+# 测试接口：https://api.github.com/search/users?q=aa
 ### 1、在vue的mounted方法中发ajax，有以下两种方法
 * vue-resource
   * 1、下载yarn add vue-resource
