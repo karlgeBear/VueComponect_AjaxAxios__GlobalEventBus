@@ -39,3 +39,8 @@
     }]
   ]
   ```
+* 配置bootstrap
+  * 下载：yarn add bootstrap
+  * 配置：前提有sytle-loader和css-loader
+  * 在入口文件引入：import 'bootstrap/dist/css/bootstrap.css'
+  * 现在bootstrap5会出错(暂未解决),我下的是4版本的
